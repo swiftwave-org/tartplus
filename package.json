@@ -1,7 +1,7 @@
 {
   "name": "tartplus",
   "version": "1.0.0",
-  "description": "A library to build tar achieve with support of ignore files (.gitignore, .npmignore, .dockeringore etc)",
+  "description": "A JS library to build tar achieve with additional support of ignore files (.gitignore, .npmignore, .dockeringore etc)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
