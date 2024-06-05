@@ -1,5 +1,6 @@
-const ignore = require('ignore')
-const tarts = require('./tarts').default
+import ignore from 'ignore'
+import tarts from './tarts'
+
 
 const readFiles = (fileTree, ignoreFiles) => {
   let content = []
