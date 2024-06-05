@@ -1,0 +1,28 @@
+{
+  "name": "tartplus",
+  "version": "1.0.0",
+  "description": "A library to build tar achieve with support of ignore files (.gitignore, .npmignore, .dockeringore etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swiftwave-org/tartplus.git"
+  },
+  "keywords": [
+    "tar",
+    "gitignore",
+    "npmignore",
+    "dockerignore"
+  ],
+  "author": "Tanmoy Sarkar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/swiftwave-org/tartplus/issues"
+  },
+  "homepage": "https://github.com/swiftwave-org/tartplus#readme",
+  "dependencies": {
+    "ignore": "^5.3.1"
+  }
+}
