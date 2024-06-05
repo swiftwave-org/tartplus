@@ -1,6 +1,6 @@
 {
 	"name": "@swiftwave/tartplus",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A JS library to build tar achieve with additional support of ignore files (.gitignore, .npmignore, .dockeringore etc)",
 	"main": "index.js",
 	"scripts": {
