@@ -13,7 +13,7 @@ npm install @swiftwave/tartplus
 ## Usage
 
 ```js
-import createTar from "tartplus";
+import createTar from "@swiftwave/tartplus";
 
 ...
 const tarBlob = await createTar(document.getElementById("file-input").files, [".gitignore"])
